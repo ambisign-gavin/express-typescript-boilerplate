@@ -158,3 +158,7 @@ class User
 ## API Documentation<a id='APIDocumentation'></a>
 
 The API Documentation URL is http://localhost:3000/docs/api.
+
+## Inspirations
+
+* [node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate)
